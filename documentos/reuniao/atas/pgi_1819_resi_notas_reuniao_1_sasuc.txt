@@ -1,0 +1,21 @@
+Inputs dos convocados:
+email - chegar aos estudantes
+não cumprem os regulamentos - barulho questão interessante, visitas fora de horas, ao melhorar a comunicação melhora o nivel de cumprimento do regulamento.
+fim do contrato ter uma notificação
+ajudar  a minimizar problemas da residencia pelo menos
+
+Coisas a melhorar ou a adicionar:
+Precisamos de um campo para o caso de ser bolseiro ou não, prazos de pagamento são diferentes
+Delegado adiciona ou retira elementos do grupo
+Ter um botão para o caso de haver barulho que manda notificação a toda gente, delegado aprova.
+
+
+
+
+Presentes na reunião:
+Maria da Conceição marques
+Leonardo Vicente
+Maria João de carvalho
+
+Tomás Lopes
+Georgiana Corduneanu
